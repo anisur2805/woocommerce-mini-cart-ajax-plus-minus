@@ -1,5 +1,7 @@
 # WooCommerce Mini Cart Plus Minus Button Click AJAX Update
 
+![Alt desc](https://github.com/anisur2805/woocommerce-mini-cart-ajax-plus-minus/blob/main/test.gif)
+
 1. Create a JS file, enqueue and localize it in you functions.php file.
 ```
 function fab_business_shop_scripts() {
