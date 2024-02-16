@@ -16,7 +16,6 @@ add_action( 'wp_enqueue_scripts', 'fab_business_shop_scripts' );
 
 
 // Here is the AJAX call 
-<?php
 add_action( 'wp_ajax_ic_qty_update', 'ic_qty_update' );
 add_action( 'wp_ajax_nopriv_ic_qty_update', 'ic_qty_update' );
 
